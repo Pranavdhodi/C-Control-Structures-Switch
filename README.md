@@ -8,28 +8,17 @@ This repository contains Lab 4 C programming exercises focused on understanding 
 
 The programs use practical examples such as calculators, billing systems, discounts, area calculations, and weekdays to demonstrate different control structures.
 
-📂 Programs
-File	Description
-calculator.c	Basic arithmetic calculator
-area.c	Area calculation
-areabreak.c	Area calculation using switch-case and break
-discount.c	Discount calculation
-electricitybill.c	Electricity bill calculation
-internetbill.c	Internet bill calculation
-telephonebill.c	Telephone bill calculation
-weekdays.c	Displays a weekday based on user input
-🧠 Concepts Covered
-switch-case
-if-else
-else-if
-break
-default
-User input with scanf()
-Arithmetic operations
-Relational operators
-Logical operators
-Decision-making
-Menu-driven programs
+| File                | Description                                    |
+| ------------------- | ---------------------------------------------- |
+| `calculator.c`      | Basic arithmetic calculator                    |
+| `area.c`            | Area calculation                               |
+| `areabreak.c`       | Area calculation using switch-case and `break` |
+| `discount.c`        | Discount calculation                           |
+| `electricitybill.c` | Electricity bill calculation                   |
+| `internetbill.c`    | Internet bill calculation                      |
+| `telephonebill.c`   | Telephone bill calculation                     |
+| `weekdays.c`        | Displays a weekday based on user input         |
+
 💻 Example
 switch (choice)
 {
@@ -84,4 +73,4 @@ Pranav Dhodi
 
 GitHub
 
-⭐ If you find this repository useful, consider giving it a star!
+⭐ If you find this repository useful
